@@ -9,6 +9,8 @@ public class PathEncryption {
 
 
     public static String pathEncryption(String path) {
+
         return path.replace("."," ");
+
     }
 }
