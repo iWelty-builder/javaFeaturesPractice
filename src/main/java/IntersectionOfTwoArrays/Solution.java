@@ -1,7 +1,7 @@
 package IntersectionOfTwoArrays;
 
-import javax.swing.*;
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class Solution {
     public static void main(String[] args) {
